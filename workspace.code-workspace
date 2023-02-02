@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "path": "../basic"
+    },
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "myresume",
+    "liveServer.settings.port": 5501
+  }
+}
